@@ -1,6 +1,6 @@
 {
   "name": "botanalytics",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Bot Analytics middleware for Botkit",
   "main": "botanalytics.js",
   "keywords": [
