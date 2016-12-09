@@ -1,0 +1,34 @@
+{
+  "name": "botanalytics",
+  "version": "1.0.1",
+  "description": "Bot Analytics middleware for Botkit",
+  "main": "botanalytics.js",
+  "keywords": [
+    "bot",
+    "bots",
+    "chatbot",
+    "slack",
+    "analytics",
+    "data",
+    "tools"
+  ],
+  "scripts": {},
+  "maintainers": [
+    {
+      "name": "asopinka",
+      "email": "alex@tasytt.com"
+    }
+  ],
+  "author": {
+    "name": "Alex Sopinka"
+  },
+  "_npmVersion": "3.10.3",
+  "_nodeVersion": "6.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.2",
+    "node-uuid": "^1.4.7",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  }
+}
