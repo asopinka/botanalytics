@@ -1,5 +1,5 @@
-# Bot Analytics middleware for Botkit
-A middleware package for Botkit that easily logs your convos in [BotAnalytics.co](http://botanalytics.co)
+# botanalytics middleware for Botkit
+A middleware package for [Botkit](http://howdy.ai/botkit) that easily logs your convos in [BotAnalytics.co](http://botanalytics.co)
 
 _**Currently only supports Slack right now.**_
 
@@ -11,7 +11,7 @@ _**Currently only supports Slack right now.**_
 
 It's really simple!
 
-First, in your `bot.js` file, include this module and initialize it with your Bot Analytics token.
+First, in your `bot.js` file, include this module and initialize it with your botanalytics token.
 
 ```
 var botanalytics = require('botanalytics')(TOKEN).slack;
@@ -40,9 +40,9 @@ controller.spawn(teams[t]).startRTM(function(err, bot, res) {
 
 # Disclaimer
 
-All mention of Bot Analytics and its use in this project are copyright of Bot Analytics at http://botanalytics.co
+All mention of botanalytics and its use in this project are copyright of botanalytics at http://botanalytics.co
 
-I do not work for Bot Analytics nor does Bot Analytics endorse this project in any way.  I'm just a chatbot developer who needs analytics on my bots.
+I do not work for botanalytics nor does botanalytics endorse this project in any way.  I'm just a chatbot developer who needs analytics on my bots.
 
 # License
 
