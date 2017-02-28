@@ -1,5 +1,5 @@
 {
-  "name": "botanalytics",
+  "name": "botanalytics-middleware",
   "version": "1.0.3",
   "description": "botanalytics middleware for Botkit",
   "main": "botanalytics.js",

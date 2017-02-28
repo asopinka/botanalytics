@@ -5,7 +5,7 @@ _**Currently only supports Slack right now.**_
 
 ## Install
 
-`npm install botanalytics --save`
+`npm install botanalytics-middleware --save`
 
 ## Usage
 
